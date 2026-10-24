@@ -1,0 +1,36 @@
+.skills {
+  
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-between; */
+  gap: 180px;
+  font-size: 10pt;
+
+}
+.skills ul {
+  list-style: disc;
+  padding: 10px;
+  margin: 0;
+}
+
+
+ .skills h3{
+ 
+  padding: 10px;
+  
+ background-color: #ECEFF9;
+  margin-inline-end: 100px;
+ 
+  width: 250px;
+  margin: 0;
+}
+.skills hr{
+  margin: 0;
+   border: none;
+  border-top: 2px solid #3f2789;
+}
+ 
+.skills li{
+    padding:5px;
+}
+

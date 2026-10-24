@@ -1,0 +1,75 @@
+{
+  "name": "VIKRAM SATHISHKUMAR",
+  "title": "Fullstack Developer",
+  "contact": {
+    "phone": "9345827378",
+    "location": "Namakkal",
+    "email": "vikramsurya2821@gmail.com",
+    "website": "hello@reallygreatsite.com"
+  },
+  "about": "A highly motivated engineering graduate with a strong foundation in Fullstack Development. Skilled in problem solving\nand data analysis, with hands-on experience in building efficient projects. Seeking an IT position to leverage technical skills\nand contribute to innovative projects. As an engineering aspirant I am excellent in working with others to achieve\na certain objective on time and with excellence.",
+  "education": [
+    {
+      "degree": "BE (CSE)",
+      "score": "CGPA 7.2",
+      "institution": "Government College Of Technology, Coimbatore",
+      "year": "2021–2023"
+    },
+        {
+      "degree": "DIP (CS)",
+      "score": "99.74%",
+      "institution": "Muthayammal Polytechnic College, Rasipuram",
+      "year": "2019–2021"
+    },
+    {
+      "degree": "SSLC",
+      "score": "89.20%",
+      "institution": "Govt. Higher Secondary School, Bommanpatty",
+      "year": "2016–2017"
+    }
+  ],
+  "technicalSkills": {
+    "Front End": "Html, Css, Javascript, React JS, Bootstrap",
+    "Back End": "Node JS, Express JS, MVC, Sequelize",
+    "Database": "MySQL",
+    "Source code": "GitHub"
+  },
+  "softSkills": [
+    "Problem Solving, Analytical Thinking",
+    "Logical Thinking, Creativity",
+    "Time Management, Adaptability",
+    "Photoshop, Canva"
+  ],
+
+  "projects": [
+    {
+      "title": "1.Liver Tumor Detection",
+      "year": "2023–2024",
+      "details": [
+        "Developed a deep learning model using CNN to detect liver cancer from MRI scans by processing images with masks, grayscale conversion, and segmentation to isolate the liver.",
+        "It aims to assist radiologists by automatically highlighting and categorizing tumor regions in MRI images, improving early detection and diagnosis without the need for a medical practitioner.",
+        "Tech Stack: Python, TensorFlow, Keras, OpenCV. "
+      ]
+    },
+     {
+      "title": "2. Intelligent Garbage Classification ",
+      "year": "2022–2023",
+      "details": [
+        " Developed an intelligent garbage classification system using deep learning techniques to enhance waste management and recycling practices.",
+        "The system accurately classifies different types of waste, thereby improving efficiency in sorting and recycling processes.",
+        "Tech Stack: HTML,CSS, Java script, Flask, Python "
+      ]
+    }
+  ],
+  "course": [
+    {
+      "title": "Fullstack Development - Raising Wingz Academy",
+      "year": "2024–2025",
+      "details": [
+        "Learning comprehensive front-end technologies (HTML, CSS, JavaScript, React) and robust back-end development (Node.js, Express, MySQL, MongoDB) with practical, hands-on experience ",
+        "Worked on real-world projects, improving problem-solving skills and understanding of  database management,API development, and user authentication. ",
+        "Developed hands-on experience in front-end and back-end development, building dynamic web applications."
+      ]
+    }
+  ]
+}

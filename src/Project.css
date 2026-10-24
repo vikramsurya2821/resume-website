@@ -1,0 +1,27 @@
+.projects h3 {
+ margin: 0;
+  padding: 10px;
+  width: 120px;
+  background-color: #ECEFF9;
+  
+  
+}
+.projects{
+  font-size: 10pt;
+}
+.projects hr{
+  margin: 0;
+   border: none;
+  border-top: 2px solid #3f2789;
+}
+.projects-container{
+    text-align: justify;
+}
+.projects .year{
+  float: right;
+  font-weight: bold;
+  margin-right: 10px;
+}
+.projects h4{
+  font-size: 12pt;
+}

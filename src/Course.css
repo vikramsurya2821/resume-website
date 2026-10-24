@@ -1,0 +1,22 @@
+.course h3 {
+  margin: 0;
+  padding: 10px;
+  width: 120px;
+ background-color: #ECEFF9;
+  
+  
+}
+.course hr{
+  margin: 0;
+   border: none;
+  border-top: 2px solid #3f2789;
+}
+.course-container{
+    text-align: justify;
+}
+.course{
+  font-size: 10pt;
+}
+.course h4{
+  font-size: 12pt;
+}

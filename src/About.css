@@ -1,0 +1,23 @@
+.about {
+  margin-bottom: 1.5rem;
+   font-size: 10pt;
+}
+.about h3 {
+ 
+  padding: 7px;
+  
+  background-color: #ECEFF9;
+  margin-inline-end: 100px;
+ 
+  width: 150px;
+  margin: 0;
+  
+}
+.about hr{
+  margin: 0;
+   border: none;
+  border-top: 2px solid #3f2789;
+}
+.about p{
+    text-align: justify;
+}

@@ -1,0 +1,30 @@
+.education-item {
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+.education .year {
+  float: right;
+  font-weight: bold;
+  margin-right: 10px;
+  font-size: 12pt;
+}
+
+.education h3{
+ 
+  padding: 10px;
+  
+ background-color: #ECEFF9;
+  margin-inline-end: 100px;
+  
+  width: 150px;
+  margin: 0;
+  
+}
+.education hr{
+  margin: 0;
+   border: none;
+  border-top: 2px solid #3f2789;
+}
+.education{
+  font-size:10pt;
+}
