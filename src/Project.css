@@ -1,0 +1,8 @@
+.projects-container h4 {
+  margin: 0;
+  font-size: 10pt;
+  font-weight: bold;
+}
+.projects-container h4 em {
+  font-weight: normal;
+}

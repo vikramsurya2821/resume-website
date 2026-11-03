@@ -1,0 +1,16 @@
+.education-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 2px;
+}
+
+@media (max-width: 600px) {
+  .education-item {
+    flex-direction: column;
+    margin-bottom: 6px;
+  }
+  .education .year {
+    margin-left: 0;
+  }
+}

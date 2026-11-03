@@ -1,0 +1,22 @@
+.header {
+  text-align: center;
+  margin-bottom: 12px;
+}
+.header h1 {
+  margin: 0;
+  font-size: 20pt;
+  line-height: 1.2;
+  font-weight: bold;
+}
+.header h2 {
+  margin: 2px 0 2px;
+  font-size: 11pt;
+  font-weight: normal;
+}
+.header p {
+  font-size: 9pt;
+}
+.header p span,
+.header p a {
+  white-space: nowrap;
+}

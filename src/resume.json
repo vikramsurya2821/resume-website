@@ -1,0 +1,82 @@
+{
+  "name": "VIKRAM SATHISHKUMAR",
+  "title": "Full Stack Developer",
+  "contact": {
+    "location": "Namakkal, Tamil Nadu",
+    "phone": "9345827378",
+    "email": "vikramsurya2821@gmail.com",
+    "website": "github.com/vikramsurya2821"
+  },
+  "about": "Full Stack Developer with hands-on experience building web applications using React.js, TypeScript, Node.js, Express.js, and MySQL. Projects include a full-stack app with a React front end and Express REST API backed by MySQL, an LMS with JWT authentication, and a React e-commerce app using Context API. B.E. Computer Science Engineering student seeking an entry-level Software Developer role.",
+  "technicalSkills": {
+    "Languages": "JavaScript, TypeScript, Python, SQL, HTML, CSS",
+    "Frontend": "React.js, React Router, Context API, Axios, Bootstrap, React-Bootstrap, Vite",
+    "Backend": "Node.js, Express.js, REST APIs, MVC Architecture, Sequelize ORM, Passport.js, bcrypt, Pug",
+    "Databases": "MySQL, PostgreSQL",
+    "Tools": "Git, GitHub, JSON Server"
+  },
+  "projects": [
+    {
+      "title": "Learning Management System (LMS)",
+      "tech": "React.js, TypeScript, Node.js, Express.js, Prisma, MySQL",
+      "details": [
+        "Built a full-stack LMS with a React and TypeScript front end, an Express.js REST API, and a MySQL database accessed through Prisma ORM with 15 models.",
+        "Implemented JWT authentication with bcrypt password hashing and role-based access for 3 roles (Admin, Instructor, Student), with Zod request validation.",
+        "Created 49 REST API endpoints and 33 React pages covering courses, modules, lessons, subscription-based course access, payments, and student management.",
+        "Developed lesson progress tracking that unlocks timed quizzes with attempt limits, plus assignment ZIP submission with grading, and course certificates."
+      ]
+    },
+    {
+      "title": "Full Stack Student Management System",
+      "tech": "React.js, TypeScript, Node.js, Express.js, Sequelize, MySQL, Axios",
+      "details": [
+        "Built a full-stack application with a React and TypeScript front end, a Node.js/Express REST API, and a MySQL database.",
+        "Designed 5 REST API endpoints in Express.js (GET all, GET by ID, POST, PUT, DELETE) that return JSON responses with 5 HTTP status codes (200, 201, 400, 404, 500).",
+        "Defined the Student model using Sequelize ORM (4 required fields, unique email) and added server-side validation for required fields and duplicate emails when creating a student.",
+        "Created 4 routed pages (Dashboard, Students, Add Student, Edit Student) with React Router and Bootstrap; the dashboard shows total students, departments, average age, and recent students.",
+        "Wrote 2 custom hooks: useAPI (Axios requests with loading and error handling) and useStudent (useReducer state for fetching and deleting students)."
+      ]
+    },
+    {
+      "title": "Shopping Cart Application",
+      "tech": "React.js, TypeScript, Vite, React Router, Bootstrap, JSON Server",
+      "details": [
+        "Built a responsive e-commerce application with 10 routed pages and 10 components, covering product listing, product details, variants, cart, wishlist, checkout, order history, and user profile.",
+        "Managed global state for authentication, cart, and wishlist using 3 React Context providers, with cart and wishlist data kept separate for each logged-in user.",
+        "Integrated REST APIs using the Fetch API through a reusable request client, 5 service modules, and a generic useApi hook that handles loading and error states.",
+        "Added product search, category filtering, price filtering, and sorting, and defined 6 TypeScript interfaces for products, variants, cart items, users, orders, and order items."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.E. Computer Science Engineering",
+      "institution": "Government College of Technology, Coimbatore",
+      "score": "CGPA 7.2",
+      "year": "2021 – 2024"
+    },
+    {
+      "degree": "Diploma in Computer Science",
+      "institution": "Muthayammal Polytechnic College, Rasipuram",
+      "score": "99.74%",
+      "year": "2019 – 2021"
+    },
+    {
+      "degree": "SSLC",
+      "institution": "Government Higher Secondary School, Bommampatty",
+      "score": "89.20%",
+      "year": "2016 – 2017"
+    }
+  ],
+  "course": [
+    {
+      "title": "Full Stack Development",
+      "institution": "Growmidz Technology",
+      "year": "2025 – 2026",
+      "details": [
+        "Studied front-end (HTML, CSS, JavaScript, React) and back-end (Node.js, Express, PostgreSQL, MongoDB) development through hands-on practice.",
+        "Worked on real-world projects, strengthening problem-solving skills and understanding of database management, API development, and user authentication."
+      ]
+    }
+  ]
+}
